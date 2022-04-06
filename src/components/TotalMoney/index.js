@@ -1,0 +1,3 @@
+const TotalMoney = ({listTransactions})=> {
+    //reduce
+}
