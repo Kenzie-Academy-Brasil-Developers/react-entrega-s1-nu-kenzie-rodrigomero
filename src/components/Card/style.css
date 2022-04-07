@@ -1,0 +1,81 @@
+.card {
+  background: #f8f9fa;
+  border-radius: 4px;
+  width: 560px;
+  height: 87px;
+  padding-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 32px;
+  font-family: "Nunito";
+}
+
+.entrada{
+    border-left:4px solid #03B898;
+}
+
+.saida{
+    border-left:4px solid #E9ECEF;
+}
+
+.card h4 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  color: #212529;
+  text-transform: capitalize;
+  margin-top: 8px;
+  margin-bottom: 2px;
+}
+
+.card span {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+  color: #5b6166;
+  text-transform: capitalize;
+}
+.card p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+  color: #212529;
+  width: 102px;
+  margin-right: 27px;
+  margin-top: 0px;
+}
+
+.icon {
+  height: 9.777778625488281px;
+  width: 8.55555534362793px;
+  left: 6.111083984375px;
+  top: 6.111083984375px;
+  border-radius: 0px;
+}
+
+.card button {
+  height: 22px;
+  width: 22px;
+  padding: 0px;
+  border-radius: 2.461538553237915px;
+  margin-right: 13px;
+}
+
+.container-descricao {
+  display: flex;
+  flex-direction: column;
+  margin-left: 14px;
+}
+
+.container-preco {
+  display: flex;
+  margin-top: 18px;
+}
+
+.card:hover {
+  background-color: #fff;
+  box-shadow: 0px 4px 42px -12px rgba(0, 0, 0, 0.25);
+}

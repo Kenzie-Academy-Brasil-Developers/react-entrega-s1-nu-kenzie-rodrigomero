@@ -1,0 +1,40 @@
+.total {
+  background: #ffffff;
+  border: 1px solid #e9ecef;
+  box-sizing: border-box;
+  border-radius: 4px;
+  margin-top: 16px;
+}
+
+.total h3 {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  color: #212529;
+  margin-left: 24px;
+  margin-top: 20px;
+}
+
+.total p {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+  color: #5b6166;
+  margin-left: 24px;
+}
+
+.total span {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  color: #fd377e;
+  position: relative;
+  top:-80px;
+  left: 295px;
+}
